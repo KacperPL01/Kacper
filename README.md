@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kacper.
 - 👀 I’m interested in coding, gaming.
-- 🌱 I’m currently learning Python, C# .NET, HTML, CSS, JAVASCRIPT.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me kacperpobog@gmail.com.
 
 <!---
