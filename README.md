@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YogBetrayedMe.
+- 👋 Hi, I’m @Kacper.
 - 👀 I’m interested in coding, gaming.
 - 🌱 I’m currently learning Python, C# .NET, HTML, CSS, JAVASCRIPT.
 - 📫 How to reach me kacperpobog@gmail.com.
